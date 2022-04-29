@@ -1,6 +1,6 @@
 # rickapp-graphql
 ## Controlador de requests para la api "rick and morty" con graphql, apollo-server-express y axios
-***** Objetivos: **
+** Objetivos: **
 * Realizar un buscador de los personajes y capítulos de rick and morty desde el api más adelante mencionada. Los datos se obtienen de el api REST y se muestran mediante GraphQL con Apollo.
 * https://rickandmortyapi.com/api
 
